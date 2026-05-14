@@ -1,4 +1,3 @@
-Markdown
 # 🛠️ Git Mastery: Laboratorio di Versioning
 
 Questo repository è il mio spazio dedicato alla pratica e all'apprendimento di **Git**. Qui sperimento con i comandi, imparo a gestire i flussi di lavoro (workflow) e simulo situazioni reali di sviluppo collaborativo.
